@@ -1,4 +1,4 @@
-from q5 import get_students_of_age
+from q6 import get_students_of_age
 
 print ('Test 1')
 students = [('Mary','12/12/1980'), ('John', '1/12/1985'), ('Peter', '1/12/2015'), ('Christopher', '1/12/1945')]
